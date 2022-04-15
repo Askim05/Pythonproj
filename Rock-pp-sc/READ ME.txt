@@ -1,0 +1,11 @@
+READ ME!!!!
+
+1. Download the main code into Your System
+
+2. Open the code in Your IDLE or VScode or any python executable platform
+
+3. Execute the code.
+ 
+4. Give the Input.
+
+5. See the Result...........>>>>>
